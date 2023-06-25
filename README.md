@@ -10,4 +10,4 @@ https://www.kaggle.com/datasets/meirnizri/covid19-dataset (https://www.kaggle.co
 , and was provided by the Mexican government, which can be found at this link:
 https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico
 
-This dataset contains an enormous number of anonymized patient-related information including pre-conditions.The raw dataset consists of 21 unique features and 1,048,576 unique patients. In the Boolean features, 1 means"yes" and 2 means "no". values as 97 and 99 are missing data.
+This dataset contains an enormous number of anonymized patient-related information including pre-conditions. The raw dataset consists of 21 unique features and 1,048,576 unique patients. In the Boolean features, 1 means"yes" and 2 means "no". values as 97 and 99 are missing data.
