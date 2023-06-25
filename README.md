@@ -6,7 +6,7 @@ Coronavirus disease (COVID-19) is an infectious disease caused by a newly discov
 
 
 The dataset is obtained from Kaggle at the following link:
-https://www.kaggle.com/datasets/meirnizri/covid19-dataset (https://www.kaggle.com/datasets/meirnizri/covid19-dataset)
+https://www.kaggle.com/datasets/meirnizri/covid19-dataset
 , and was provided by the Mexican government, which can be found at this link:
 https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico
 
