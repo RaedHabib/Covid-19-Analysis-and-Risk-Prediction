@@ -7,7 +7,7 @@ Coronavirus disease (COVID-19) is an infectious disease caused by a newly discov
 
 The dataset is obtained from Kaggle at the following link:
 https://www.kaggle.com/datasets/meirnizri/covid19-dataset (https://www.kaggle.com/datasets/meirnizri/covid19-dataset)
-, and was provided by the Mexicangovernment, which can be found at this link:
-https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico (https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico)
+, and was provided by the Mexican government, which can be found at this link:
+https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico
 
 This dataset contains an enormous number of anonymized patient-related information including pre-conditions.The raw dataset consists of 21 unique features and 1,048,576 unique patients. In the Boolean features, 1 means"yes" and 2 means "no". values as 97 and 99 are missing data.
