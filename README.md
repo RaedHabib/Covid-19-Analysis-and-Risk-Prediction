@@ -1,4 +1,8 @@
 # Covid-19-Analysis-and-Risk-Prediction
+![image](https://github.com/RaedHabib/Covid-19-Full-Analysis-and-Risk-Prediction/assets/127057461/19a55dd8-13fc-4a0f-9775-b2fd0d32b3af)
+
+
+## :dart: About : ##
 A Full Data Science project on a Dataset obtained from kaggle.
 
 
