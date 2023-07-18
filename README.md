@@ -1,5 +1,6 @@
 # Covid-19-Analysis-and-Risk-Prediction
-![image](https://github.com/RaedHabib/Covid-19-Full-Analysis-and-Risk-Prediction/assets/127057461/19a55dd8-13fc-4a0f-9775-b2fd0d32b3af)
+![image](https://github.com/RaedHabib/Covid-19-Full-Analysis-and-Risk-Prediction/assets/127057461/62ba7a73-868e-4ed0-b8f7-f9334d81f2f4)
+
 
 
 ## :dart: About : ##
