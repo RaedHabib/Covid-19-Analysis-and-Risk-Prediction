@@ -3,7 +3,7 @@
 
 
 
-## :dart: About: ##
+## About: ##
 A Full Data Science project on a Dataset obtained from kaggle.
 
 
